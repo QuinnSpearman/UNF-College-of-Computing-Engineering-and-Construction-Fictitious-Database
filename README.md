@@ -6,3 +6,6 @@ Also included is a query generator which generates large queries of fictitious s
 
 Link to ER Diagram: https://app.lucidchart.com/invitations/accept/8c4c6654-805d-4ef5-8940-8ffc3d986b2e
 
+First names data: https://github.com/dominictarr/random-name/blob/master/first-names.txt
+
+Last names data: https://github.com/arineng/arincli/blob/master/lib/last-names.txt
